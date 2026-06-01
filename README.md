@@ -49,7 +49,7 @@ Host dist/embed/weatherly-widget.js on your server/CDN, then add it to any page.
   </weatherly-widget>
 </div>
 
-<script src="https://your-domain.com/weatherly-widget.js"></script>
+<script src="https://your-domain.com/weatherly-widget.js](https://weatherly-widget.netlify.app/embed/weatherly-widget.js"></script>
 ```
 
 ### Option 2: JavaScript API
@@ -57,7 +57,7 @@ Host dist/embed/weatherly-widget.js on your server/CDN, then add it to any page.
 ```html
 <div id="my-weather"></div>
 
-<script src="https://your-domain.com/weatherly-widget.js"></script>
+<script src="https://your-domain.com/weatherly-widget.js](https://weatherly-widget.netlify.app/embed/weatherly-widget.js"></script>
 <script>
   window.WeatherlyWidget.create("#my-weather", {
     location: "London",
